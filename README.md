@@ -1,18 +1,12 @@
 <div align="center">
 
-<img src="./assets/logo.png" width="230px" alt="Logo Alex Junior">
+<img src="./assets/logo.png" width="260px" alt="Logo Alex Júnior">
 
-# ALEX JUNIOR
+# 👋 Olá! Eu sou Alex Júnior
 
-### 💻 Desenvolvedor de Software • ⚖️ Sistemas de Pesagem • 🔧 Eletrônica
+### 💻 Desenvolvedor de Software • ⚖️ Sistemas de Pesagem • 🔧 Técnico em Eletrônica
 
 **Transformando eletrônica, software e instrumentação em soluções reais.**
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=alex201159&style=for-the-badge)
-![GitHub followers](https://img.shields.io/github/followers/alex201159?style=for-the-badge)
-![GitHub User's stars](https://img.shields.io/github/stars/alex201159?style=for-the-badge)
 
 </div>
 
@@ -20,9 +14,13 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou **desenvolvedor de software** e **técnico em eletrônica**, com foco no desenvolvimento de soluções que integram:
+Sou **desenvolvedor de software** e **técnico em eletrônica**, com foco na criação de soluções que integram:
 
-> 💻 **Software** + 🔧 **Eletrônica** + ⚖️ **Sistemas de Pesagem**
+<div align="center">
+
+### 💻 Software + 🔧 Eletrônica + ⚖️ Sistemas de Pesagem
+
+</div>
 
 Desenvolvo **aplicativos, sistemas web, sistemas embarcados, equipamentos de diagnóstico e soluções para balanças e instrumentação eletrônica**.
 
@@ -34,18 +32,17 @@ Meu objetivo é transformar necessidades do mundo real em soluções **práticas
 
 <table>
 <tr>
-
 <td width="50%" valign="top">
 
 ### 💻 Software & Aplicativos
 
-- Aplicativos
-- Sistemas personalizados
-- Aplicações Web
-- Interfaces para equipamentos
-- Processamento de dados
-- Sistemas de diagnóstico
-- Ferramentas técnicas
+- 📱 Aplicativos
+- 💻 Sistemas personalizados
+- 🌐 Aplicações Web
+- 🖥️ Interfaces para equipamentos
+- 📊 Processamento de dados
+- 🔍 Sistemas de diagnóstico
+- 🛠️ Ferramentas técnicas
 
 </td>
 
@@ -53,31 +50,29 @@ Meu objetivo é transformar necessidades do mundo real em soluções **práticas
 
 ### ⚖️ Sistemas de Pesagem
 
-- Sistemas para balanças
-- Leitura e processamento de peso
-- Comunicação com indicadores
-- Diagnóstico de células de carga
-- Calibração e ajustes
-- Aquisição de dados
-- Automação de pesagem
+- ⚖️ Sistemas para balanças
+- 📊 Leitura e processamento de peso
+- 🔌 Comunicação com indicadores
+- 🔬 Diagnóstico de células de carga
+- 📐 Calibração e ajustes
+- 📥 Aquisição de dados
+- ⚙️ Automação de pesagem
 
 </td>
-
 </tr>
 
 <tr>
-
 <td width="50%" valign="top">
 
 ### 🔧 Eletrônica
 
-- Desenvolvimento de circuitos
-- Instrumentação eletrônica
-- Sensores
-- Conversores ADC
-- Relés e multiplexadores
-- Interfaces eletrônicas
-- Equipamentos de teste
+- 🔌 Desenvolvimento de circuitos
+- 🔬 Instrumentação eletrônica
+- 📡 Sensores
+- 📊 Conversores ADC
+- ⚙️ Relés e multiplexadores
+- 🔗 Interfaces eletrônicas
+- 🧪 Equipamentos de teste
 
 </td>
 
@@ -85,45 +80,46 @@ Meu objetivo é transformar necessidades do mundo real em soluções **práticas
 
 ### 📡 Sistemas Embarcados
 
-- ESP32
-- ESP32-S3
-- Arduino
-- Displays TFT / Touch
-- Bluetooth / BLE
-- UART / Serial
-- RS-232
-- Integração Hardware + Software
+- ⚙️ ESP32
+- 🚀 ESP32-S3
+- ♾️ Arduino
+- 🖥️ Displays TFT / Touch
+- 🔵 Bluetooth / BLE
+- 🔌 UART / Serial
+- 📡 RS-232
+- 🔗 Integração Hardware + Software
 
 </td>
-
 </tr>
 </table>
 
 ---
 
-# ⚖️ Sistemas de Pesagem
+## ⚖️ Sistemas de Pesagem
 
 Uma das minhas principais áreas de atuação é o desenvolvimento de **tecnologias para balanças e sistemas de pesagem**.
 
-Trabalho desde a aquisição do sinal da célula de carga até o desenvolvimento da interface utilizada pelo operador.
+Trabalho desde a aquisição do sinal da **célula de carga**, passando pelo processamento eletrônico e sistemas embarcados, até o desenvolvimento da interface utilizada pelo operador.
 
 ```text
              ⚖️ CÉLULA DE CARGA
                      │
                      ▼
-              🔌 ELETRÔNICA
+              🔧 ELETRÔNICA
                      │
                      ▼
-               📟 ADC / HX711
+             📊 ADC / CONVERSOR
                      │
                      ▼
              ⚙️ ESP32 / ESP32-S3
                      │
           ┌──────────┼──────────┐
+          │          │          │
           ▼          ▼          ▼
-       📡 BLE      🔌 UART     RS-232
+       📡 BLE     🔌 UART    🔗 RS-232
           │          │          │
           └──────────┼──────────┘
+                     │
                      ▼
                💻 SOFTWARE
                      │
@@ -131,4 +127,4 @@ Trabalho desde a aquisição do sinal da célula de carga até o desenvolvimento
               📊 INTERFACE
                      │
                      ▼
-                 👤 USUÁRIO
+                👤 USUÁRIO
