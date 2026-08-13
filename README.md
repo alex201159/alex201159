@@ -1,61 +1,134 @@
-# 👋 Olá! Eu sou Alex Junior
+<div align="center">
 
-### 💻 Desenvolvedor de Software | ⚖️ Sistemas de Pesagem | 🔧 Técnico em Eletrônica
+<img src="./assets/logo.png" width="230px" alt="Logo Alex Junior">
 
-Bem-vindo ao meu GitHub!
+# ALEX JUNIOR
 
-Sou desenvolvedor e técnico em eletrônica, com foco na criação de **aplicativos, softwares, sistemas embarcados e soluções para sistemas de pesagem e balanças**.
+### 💻 Desenvolvedor de Software • ⚖️ Sistemas de Pesagem • 🔧 Eletrônica
 
-Gosto de unir **software + hardware** para transformar problemas reais em soluções práticas, modernas e eficientes.
+**Transformando eletrônica, software e instrumentação em soluções reais.**
 
----
+<br>
 
-## 🚀 Sobre mim
+![Profile Views](https://komarev.com/ghpvc/?username=alex201159&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/alex201159?style=for-the-badge)
+![GitHub User's stars](https://img.shields.io/github/stars/alex201159?style=for-the-badge)
 
-- 💻 Desenvolvimento de **aplicativos e softwares**
-- 🌐 Desenvolvimento de **sistemas e aplicações web**
-- ⚖️ Desenvolvimento de soluções para **balanças e sistemas de pesagem**
-- 🔧 Técnico em **Eletrônica**
-- 📡 Desenvolvimento de projetos com **ESP32 e sistemas embarcados**
-- 🔌 Integração entre **hardware e software**
-- 📊 Aquisição, processamento e análise de dados
-- 🖥️ Desenvolvimento de interfaces para equipamentos
-- 🔄 Comunicação **Serial, RS-232, UART, Bluetooth e BLE**
-- ⚙️ Automação e desenvolvimento de soluções eletrônicas personalizadas
+</div>
 
 ---
 
-## ⚖️ Sistemas de Pesagem
+## 👨‍💻 Sobre mim
 
-Uma das minhas principais áreas de atuação é o desenvolvimento de tecnologias para **balanças e sistemas de pesagem**.
+Sou **desenvolvedor de software** e **técnico em eletrônica**, com foco no desenvolvimento de soluções que integram:
 
-Trabalho com soluções envolvendo:
+> 💻 **Software** + 🔧 **Eletrônica** + ⚖️ **Sistemas de Pesagem**
 
-- ⚖️ Sistemas de pesagem
-- 📊 Leitura e processamento de peso
-- 🔬 Diagnóstico de células de carga
-- 📐 Calibração e ajustes
-- 🔌 Interfaces para indicadores de peso
-- 📡 Comunicação com balanças
-- 🧪 Desenvolvimento de equipamentos de teste
-- 📋 Coleta e geração de dados
-- 🖥️ Softwares para manutenção e diagnóstico
-- 🤖 Automação de processos de pesagem
+Desenvolvo **aplicativos, sistemas web, sistemas embarcados, equipamentos de diagnóstico e soluções para balanças e instrumentação eletrônica**.
+
+Meu objetivo é transformar necessidades do mundo real em soluções **práticas, modernas, confiáveis e eficientes**.
 
 ---
 
-## 🔧 Eletrônica & Sistemas Embarcados
+## 🚀 O que eu desenvolvo
 
-Desenvolvo projetos que integram eletrônica, programação e instrumentação.
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 💻 Software & Aplicativos
+
+- Aplicativos
+- Sistemas personalizados
+- Aplicações Web
+- Interfaces para equipamentos
+- Processamento de dados
+- Sistemas de diagnóstico
+- Ferramentas técnicas
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚖️ Sistemas de Pesagem
+
+- Sistemas para balanças
+- Leitura e processamento de peso
+- Comunicação com indicadores
+- Diagnóstico de células de carga
+- Calibração e ajustes
+- Aquisição de dados
+- Automação de pesagem
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+### 🔧 Eletrônica
+
+- Desenvolvimento de circuitos
+- Instrumentação eletrônica
+- Sensores
+- Conversores ADC
+- Relés e multiplexadores
+- Interfaces eletrônicas
+- Equipamentos de teste
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📡 Sistemas Embarcados
+
+- ESP32
+- ESP32-S3
+- Arduino
+- Displays TFT / Touch
+- Bluetooth / BLE
+- UART / Serial
+- RS-232
+- Integração Hardware + Software
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# ⚖️ Sistemas de Pesagem
+
+Uma das minhas principais áreas de atuação é o desenvolvimento de **tecnologias para balanças e sistemas de pesagem**.
+
+Trabalho desde a aquisição do sinal da célula de carga até o desenvolvimento da interface utilizada pelo operador.
 
 ```text
-ESP32 / ESP32-S3
-      │
-      ├── Sensores
-      ├── Células de Carga
-      ├── Conversores ADC
-      ├── Displays TFT / Touch
-      ├── Bluetooth / BLE
-      ├── UART / Serial / RS-232
-      ├── Relés / Multiplexadores
-      └── Sistemas de Instrumentação
+             ⚖️ CÉLULA DE CARGA
+                     │
+                     ▼
+              🔌 ELETRÔNICA
+                     │
+                     ▼
+               📟 ADC / HX711
+                     │
+                     ▼
+             ⚙️ ESP32 / ESP32-S3
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       📡 BLE      🔌 UART     RS-232
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+               💻 SOFTWARE
+                     │
+                     ▼
+              📊 INTERFACE
+                     │
+                     ▼
+                 👤 USUÁRIO
